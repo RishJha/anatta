@@ -1,0 +1,12 @@
+{
+  "name": "anatta",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node app.js -name product"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
